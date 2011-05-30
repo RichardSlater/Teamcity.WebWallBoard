@@ -1,0 +1,66 @@
+body {
+	background-image: url(../img/wood.jpg);
+}
+
+h1 {
+	font-family: 'Maven Pro', arial, serif;
+	font-weight: bold;
+	color: white;
+	font-size: 36px;
+	padding-bottom: 0.25em;
+	text-align: center;
+	text-shadow: 2px 2px 2px #777;
+}
+
+.project {
+	font-family: 'Maven Pro', arial, serif;
+	color: white;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	background: green;
+	padding: 1em;
+	border-radius: 1em;
+	-moz-border-radius: 1em;
+	margin-bottom: 1em;
+	height: 3.5em;
+}
+
+.failing
+{
+	background: red;
+}
+
+.project > .title {
+	float: left;
+	width: 30em;
+}
+
+h2 {
+	font-size: x-large;
+	text-shadow: 1px 1px 1px black;
+}
+
+.status
+{
+	float: left;
+	border-left: 1px solid white;
+	margin-left: 1em;
+	padding-left: 1em;
+}
+
+.status > strong {
+	font-size: x-large;
+	text-shadow: 1px 1px 1px black;
+}
+
+.time-tracking
+{
+	float: right;
+	padding-left: 1em;
+}
+
+.time-tracking > strong {
+	font-size: x-large;
+	text-shadow: 1px 1px 1px black;
+}
