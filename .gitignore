@@ -38,3 +38,4 @@ build/config/buildinfo.properties
 /bin
 /obj
 *.suo
+*.user
