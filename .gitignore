@@ -35,7 +35,7 @@ publish
 build/buildinfo.properties
 build/config/buildinfo.properties
 
-/bin
-/obj
+bin
+obj
 *.suo
 *.user
