@@ -98,7 +98,6 @@
     <None Include="build\config\project.properties" />
     <None Include="build\createproject.sh" />
     <None Include="build\runbuildscript.bat" />
-    <None Include="README.md" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" />
