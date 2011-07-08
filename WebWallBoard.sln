@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 11.00
 # Visual Studio 2010
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebWallBoard", "WebWallBoard.csproj", "{4009161C-6D4C-426B-AB5A-421699B82D68}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WallBoard.Web", "WallBoard.Web\WallBoard.Web.csproj", "{4009161C-6D4C-426B-AB5A-421699B82D68}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
