@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("WallBoard.Domain")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyTitle("Web Wall Board Domain Model")]
+[assembly: AssemblyDescription("Web Wall Board Domain Model")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Microsoft")]
-[assembly: AssemblyProduct("WallBoard.Domain")]
-[assembly: AssemblyCopyright("Copyright © Microsoft 2011")]
+[assembly: AssemblyCompany("Web Wall Board Team")]
+[assembly: AssemblyProduct("Web Wall Board")]
+[assembly: AssemblyCopyright("©2011 Web Wall Board Team")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
